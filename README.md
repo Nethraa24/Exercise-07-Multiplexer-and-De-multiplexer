@@ -79,7 +79,7 @@ Developed by: J.NETHRAA
 RegisterNumber: 212222100031 
 
 ## MULTIPLEXER
-```
+```python
 module multiplexer(I0,I1,I2,I3,S0,S1,Y);
 input I0,I1,I2,I3,S0,S1;
 output Y;
@@ -95,7 +95,7 @@ endmodule
 ```
 
 ## DEMULTIPLEXER
-```
+```python
 module demux(Y0,Y1,Y2,Y3,S0,S1,I);
 input S0,S1,I;
 output Y0,Y1,Y2,Y3;
