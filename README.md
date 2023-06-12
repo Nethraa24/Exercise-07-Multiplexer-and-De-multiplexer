@@ -126,8 +126,7 @@ endmodule
 
 
 ## DE-MULTIPLEXER
-![image](https://github.com/Nethraa24/Exercise-07-Multiplexer-and-De-multiplexer/assets/121215786/1074aae5-64ef-4e48-b38c-1c67fda05148)
-
+![image](https://github.com/Nethraa24/Exercise-07-Multiplexer-and-De-multiplexer/assets/121215786/ec449930-1d0f-412a-ba24-865443c1507a)
 
 ### TRUTH TABLE 
 ## 4*1 MULTIPLEXER
